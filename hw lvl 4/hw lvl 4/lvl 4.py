@@ -1,0 +1,5 @@
+variable("me")
+variable("sussy")
+variable("mogers")
+variable("baka")
+variable("goa")
